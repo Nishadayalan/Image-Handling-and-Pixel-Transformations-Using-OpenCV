@@ -1,4 +1,6 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+- **Name:** Nisha D  
+- **Register Number:** 212223230143
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
@@ -290,6 +292,8 @@ plt.title("Hue (H) Channel")
 
 plt.show()
 ```
+- **Name:** Nisha D  
+- **Register Number:** 212223230143
 
 ## Output:
 - **i)** Read and Display an Image.
